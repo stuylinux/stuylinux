@@ -8,6 +8,7 @@ curl
 racket
 git
 python3
+thonny
 apache2
 openjdk-17-jdk
 build-essential
